@@ -3,8 +3,8 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sennshi&show_icons=true&count_private=true&theme=nord)
-![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sennshi&layout=compact&langs_count=7&hide=html,css&theme=nord)
+![Stats](https://github-readme-stats.vercel.app/api?username=sennshi&show_icons=true&count_private=true&theme=dracula)
+![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=sennshi&layout=compact&langs_count=7&hide=html,shell,css&theme=dracula)
 
 ---
 
