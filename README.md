@@ -9,7 +9,7 @@ class Me:
         self.name = 'Rodrigo'
         self.country = 'Brazil'
         self.i_like = ['anime', 'manga', 'study', 'programming']
-        self.languagues = ['typescript', 'python', javascript']
+        self.languagues = ['typescript', 'python', 'javascript']
         
     def drink_coffe(self, cup):
         if cup.is_full:
