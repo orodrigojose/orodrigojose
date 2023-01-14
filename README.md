@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, i am sennshi</h1>
+  <h1>Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, i am Rodrigo Sennshi</h1>
   <p>I like to program and learn new things.</p>
 </div>
 
@@ -30,14 +30,14 @@ me = Me()
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Profile" align="right" height="170" style="border-radius: 20px;" src="https://github.com/sennshi.png" />
+  <img alt="Profile" align="right" height="170" style="border-radius: 20px;" src="https://github.com/rodrigosj7.png" />
 </div>
 
 <br/>
 <details>
   <summary>GitHub stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=sennshi&show_icons=true&count_private=true&theme=dracula" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sennshi&layout=compact&langs_count=7&hide=html,shell,css&theme=dracula" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigosj7&show_icons=true&count_private=true&theme=dracula" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosj7&layout=compact&langs_count=7&hide=html,shell,css&theme=dracula" alt="top langs"/>
 </details>
 
 ## 👨‍💻 Workspace
