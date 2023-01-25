@@ -1,47 +1,24 @@
-<div align="center">
-  <h1>Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, i am Rodrigo Sennshi</h1>
-  <p>I like to program and learn new things.</p>
-</div>
+# Ola, Sou o Rodrigo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<p>Gosto muito de desenhar e aprender novas coisas, atualmente estou tentando aprender inglês e japonês</p>
 
-```python
-class Me:
-    def __init__(self):
-        self.name = 'Rodrigo'
-        self.country = 'Brazil'
-        self.i_like = ['anime', 'manga', 'study', 'programming']
-        self.languagues = ['typescript', 'python', 'javascript']
-        
-    def drink_coffe(self, cup):
-        if cup.is_full:
-            print('Thanks man :)')
-            return True
+## Tecnologias
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+---
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-        print("I'm sorry, but this cup doesn't have coffe :(")
-        return False
-      
-me = Me()
-```
+## Aprendendo atualmente
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Profile" align="right" height="170" style="border-radius: 20px;" src="https://github.com/rodrigosj7.png" />
-</div>
-
-<br/>
-<details>
-  <summary>GitHub stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigosj7&show_icons=true&count_private=true&theme=dracula" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosj7&layout=compact&langs_count=7&hide=html,shell,css&theme=dracula" alt="top langs"/>
-</details>
-
-## 👨‍💻 Workspace
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+## Ferramentas utilizadas/Área de trabalho
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-232323?style=for-the-badge&logo=linux&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -51,14 +28,19 @@ me = Me()
 -->
 
 <div align="left">
-  <h2>📔 Social medias</h2>
-  <a href="https://www.linkedin.com/in/rodrigo-sennshi/">
+  <h2>Meios de Contato</h2>
+  <a href="https://www.linkedin.com/in/rodrigojoses/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/sennshi">
+  <a href="https://github.com/rodrigosj7">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:sennshi.rodrigo@gmail.com">
+  <a href="mailto:contato.rodrigosilv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigosj7&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rodrigosj7&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
