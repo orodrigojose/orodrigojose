@@ -1,5 +1,5 @@
 # Ola, Sou o Rodrigo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-<p>Gosto muito de desenhar e aprender novas coisas, atualmente estou tentando aprender inglês e japonês</p>
+<p>Tenho 15 anos, no momento estou no Ensino Médio. Gosto muito de desenhar e aprender novas coisas, atualmente estou tentando aprender inglês e japonês</p>
 
 ## Tecnologias
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -14,6 +14,8 @@
 ## Aprendendo atualmente
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ## Ferramentas utilizadas/Área de trabalho
