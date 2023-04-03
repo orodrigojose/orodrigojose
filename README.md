@@ -1,6 +1,6 @@
 # :brazil: Hello, I'm Rodrigo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 - I'm Rodrigo.
-- I'm 15 years old.
+- I'm 16 years old.
 - I am frontend developer.
 - I like to study and learn new things.
 - Actually I am learning Japanese and English.
