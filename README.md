@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Rodrigo, sou Software Developer há 4 anos e atualmente estou cursando Ciência da Computação na UAM.</p>
+<p align="left"> Sou o Rodrigo, estudante de Programação desde os 12 anos, atualmente cursando Ciência da Computação na Universidade Anhembi Morumbi(UAM) 🌴.</p>
 
 ###
 
@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Estudante de programação desde os 13 anos de idade...<br>📚 Atualmente aprendendo Java ...<br>🎯 Metas: Consegui estágiar na área ...<br>🎲 Hobbys: Estudar idiomas, leitura de Mangás e HQ's e montagem de computador ...</p>
+<p align="left">✨ Estudante de programação desde os 13 anos de idade...
+  <br>📚 Estudando em prol de me tornar um Desenvolvedor melhor...
+  <br>🎯 Em busca de estágiar ou exercer no Mercado de Tecnologia...
+  <br>🎲 Hobbys: Aprender e desbravar novos idiomas, conteúdos geek's e Manutenção de Hardware & Arduino...
+</p>
 
 ###
 
@@ -57,7 +61,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
-
 
 <div align="left">
   <h2>🌐 Socials</h2>
