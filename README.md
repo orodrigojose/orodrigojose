@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <h2>Sobre mim</h2>
+  <h2>About me</h2>
 </div>
 
 <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210" align="left" style="margin-right: 15px;">
